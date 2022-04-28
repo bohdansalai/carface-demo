@@ -1,9 +1,11 @@
-In this file I would like to show my project called carface.pl
-This project has to connect sellers and buyers of used cars. There are auto news also.
-There is no codebase of this project on github, only screenshots of interface on big and small
-screens.
+# Marketplace of used cars
 
-BIG SCREEN 
+In this file I would like to show my project called carface.pl .
+This project has to connect sellers and buyers of used cars. There are auto news also.
+There is no codebase of this project on github, only screenshots of adaptive user interface.
+
+
+## BIG SCREEN 
 
 Adding new post first screen:
 <img width="1508" alt="adding car first page" src="https://user-images.githubusercontent.com/38630765/165588041-09b8f2bb-2602-4d07-9c1a-400964218fff.png">
@@ -24,7 +26,7 @@ User posts:
 User account:
 <img width="1508" alt="user" src="https://user-images.githubusercontent.com/38630765/165588095-7128a845-1c32-475a-840b-769d174a7d32.png">
 
-SMALL SCREEN
+## SMALL SCREEN
 
 
 <img width="375" alt="adding car first page" src="https://user-images.githubusercontent.com/38630765/165588992-847cd3a8-5667-48c1-95af-2fbc84e35651.png">
