@@ -1,6 +1,6 @@
 # Marketplace of used cars
 
-In this file I would like to show my project called carface.pl .
+In this file I would like to show my project for portfolio called carface.pl .
 This project has to connect sellers and buyers of used cars. There are auto news also.
 There is no codebase of this project on github, only screenshots of adaptive user interface.
 
